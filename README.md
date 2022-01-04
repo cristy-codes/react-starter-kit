@@ -8,5 +8,3 @@
 - `npm run eslint:fix` - execute eslint check and automatically fix problems
 - `npm run stylelint:check` - execute stylelint check
 - `npm run stylelint:fix` - execute stylelint check and automatically fix problems
-# Linksy-frontend
-# Linksy-frontend
